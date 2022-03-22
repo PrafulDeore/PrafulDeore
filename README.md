@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praful</h1>
-<h3 align="center">I am fully skilled in MERN Stack and aspire to build pixel perfect Website💻</h3>
+<h3 align="center">I am fully skilled in MERN Stack and aspire to build pixel perfect Website💻.A team player and also a good motivator who believes in the motto of "If Everyone is moving forward together, then success takes care of itself".</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafuldeore" alt="prafuldeore" /></a> </p>
 
